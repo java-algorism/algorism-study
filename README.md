@@ -138,4 +138,10 @@
 
 -   김홍중  
     [바이러스](https://www.acmicpc.net/problem/2606)  
-    [전쟁-전투](https://www.acmicpc.net/problem/1303)  
+    [전쟁-전투](https://www.acmicpc.net/problem/1303) 
+    
+### 1월 31일
+
+-   홍영준  
+    [사냥꾼](https://www.acmicpc.net/problem/8983)  
+    [경로찾기](https://www.acmicpc.net/problem/11403)

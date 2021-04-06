@@ -296,3 +296,9 @@
 -   김건영  
     [Rotate Array](https://leetcode.com/problems/rotate-array/)  
     [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  
+    
+    
+### 4월 11일  
+-   홍영준  
+    [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)  
+    [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
